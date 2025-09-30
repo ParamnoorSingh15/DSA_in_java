@@ -10,8 +10,10 @@ public class Ques3 {
         System.out.print("Enter the number: ");
         int num = sc.nextInt();
 
-        if(Math.abs(num) < 69) System.out.println("Its magnitude is less than 69");
-        else System.out.println("Its magnitude is not less than 69");
+        if(Math.abs(num) < 69)
+            System.out.println("Its magnitude is less than 69");
+        else
+            System.out.println("Its magnitude is not less than 69");
 
 
 
