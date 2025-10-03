@@ -2,7 +2,7 @@ package Loops;
 
 public class countingDigits {
     public static void main(String[] args) {
-        int n = 991;
+        int n = 0;
         int count = 0;
 
         do{
